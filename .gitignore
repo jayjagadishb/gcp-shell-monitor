@@ -1,0 +1,10 @@
+# Logs
+logs/*.log
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
